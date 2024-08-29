@@ -1,2 +1,2 @@
 # Website-1
-Creating my first basic webpage!
+Creating my first basic website!
