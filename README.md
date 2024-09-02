@@ -1,2 +1,2 @@
 # Website-1
-Creating my first basic website!
+Practicing and learning Web Development, building my first basic Website!
